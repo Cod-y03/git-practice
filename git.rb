@@ -1,3 +1,5 @@
 puts "Coding is fun!!!!"
 puts "GG easy"
 puts "The guy is very cool much nice"
+puts "I am in love with a cheese burger and I dont know why"
+puts "I am in love with a cheese burger and I dont know why"
