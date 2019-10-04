@@ -1,6 +1,6 @@
-#Git Practice
+# Git Practice
 
-##Subsection
+## Subsection
 
 A regular paragraph.
 
