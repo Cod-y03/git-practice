@@ -26,3 +26,13 @@ Show History
 ------------
 
 git log
+
+
+Moving to Git Hub account
+-------------------------
+after doing a `commit` use `git push`
+it will update files in Git Hub
+
+use `git copy` and take url to copy to another computer
+
+use `git pull` to take any updates form another computer
